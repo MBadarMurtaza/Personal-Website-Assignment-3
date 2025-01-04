@@ -951,6 +951,14 @@ video {
   background-color: transparent;
 }
 
+.bg-\[\#\] {
+  background-color: #;
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
 .bg-\[url\(\'\/img\/background\.jpg\'\)\] {
   background-image: url('/img/background.jpg');
 }
@@ -969,6 +977,10 @@ video {
 
 .p-10 {
   padding: 2.5rem;
+}
+
+.p-20 {
+  padding: 5rem;
 }
 
 .px-3 {
@@ -1004,6 +1016,11 @@ video {
 .py-0 {
   padding-top: 0px;
   padding-bottom: 0px;
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .pb-10 {
