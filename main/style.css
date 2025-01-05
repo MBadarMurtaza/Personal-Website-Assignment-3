@@ -951,14 +951,6 @@ video {
   background-color: transparent;
 }
 
-.bg-\[\#\] {
-  background-color: #;
-}
-
-.bg-\[\] {
-  background-color: ;
-}
-
 .bg-\[url\(\'\/img\/background\.jpg\'\)\] {
   background-image: url('/img/background.jpg');
 }
@@ -973,14 +965,6 @@ video {
 
 .p-5 {
   padding: 1.25rem;
-}
-
-.p-10 {
-  padding: 2.5rem;
-}
-
-.p-20 {
-  padding: 5rem;
 }
 
 .px-3 {
@@ -1003,24 +987,14 @@ video {
   padding-bottom: 1.5rem;
 }
 
-.py-\[17px\] {
-  padding-top: 17px;
-  padding-bottom: 17px;
-}
-
-.py-20 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-}
-
-.py-0 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.py-\[17px\] {
+  padding-top: 17px;
+  padding-bottom: 17px;
 }
 
 .pb-10 {
